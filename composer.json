@@ -1,5 +1,6 @@
 {
   "name": "hopita/hola_amparo",
+  "version": "1.0.0",
   "description": "Pruebas de composer",
   "minimum-stability": "dev",
   "license": "MIT",
