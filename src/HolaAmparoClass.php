@@ -7,10 +7,6 @@ namespace Hopita\Composer;
  */
 class HolaAmparoClass
 {
-	public function __construct()
-    {
-        
-    }
 
     public function sayHallo()
     {
