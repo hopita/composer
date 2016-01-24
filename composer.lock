@@ -1353,12 +1353,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "1548a0a971b0cc13eadab85fa7a9b1b2ee12715e"
+                "reference": "ccbaef96e6595df28d040f6bb18d946e574badf8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/1548a0a971b0cc13eadab85fa7a9b1b2ee12715e",
-                "reference": "1548a0a971b0cc13eadab85fa7a9b1b2ee12715e",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/ccbaef96e6595df28d040f6bb18d946e574badf8",
+                "reference": "ccbaef96e6595df28d040f6bb18d946e574badf8",
                 "shasum": ""
             },
             "require": {
@@ -1394,7 +1394,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-21 09:24:53"
+            "time": "2016-01-24 11:06:16"
         }
     ],
     "aliases": [],
